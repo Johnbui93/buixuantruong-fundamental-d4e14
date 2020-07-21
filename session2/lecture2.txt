@@ -1,0 +1,39 @@
+cd: 
+ls:
+
+for i in range(3)
+for and in is format
+i: variable (save information)
+range(): what action?
+range(2,10): we can control the start number and stop number in range.
+range(2,10,x) x is step (buoc nhay) x set by defaut is 1. want to count down set x by -1
+print(i, end="a")
+
+
+assignment 1
+number = int(input('your number? '))
+a = ""
+for i in range(number+1):
+    a = a+str(i)
+
+assignment 2
+from turtle import*
+speed(-1)
+for edge in range(3,10):
+    for i in range(edge):
+        forward(100)
+        left(360/edge)
+
+mainloop()
+
+
+conditional intro
+if else condition: 
+example:
+
+age = int(input("your GF age "))
+
+if age > 18:                 (bat buoc
+    print('khong bi di tu')
+else:
+    print('boc lich roi')

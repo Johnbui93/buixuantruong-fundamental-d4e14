@@ -1,0 +1,16 @@
+Assigment 1.
+- How to check a variable’s type?
+Answer:Use function type. Type(variable)
+
+- In what cases, you will get SyntaxError from the compiler telling you
+that some of your variables have invalid names?
+
+There are 3 case: 
+1 variable does not start with letter. 
+2 variable contain with ivalid character (letter and digits)
+3 variable is one of Python keyword
+
+- Can you give 3 different examples of invalid names?
+1: 5star = extremly good service
+2. water% = 100
+3. None = "maybe not going"
